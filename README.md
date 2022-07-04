@@ -12,7 +12,7 @@ SNS와 평정 데이터를 활용한 클래식 영화 백과사전 사이트
 <br>
 
 ## 사용기술 스택
-- Front-end: HTML, SCSS, JAvascrupt, React, React-Router
+- Front-end: HTML, SCSS, Javascript, React, React-Router
 - Back-end: Phython, Django, MySQL
 
 <br>
